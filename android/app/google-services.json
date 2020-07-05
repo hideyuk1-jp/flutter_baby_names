@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671247499593",
+    "firebase_url": "https://baby-names-app-db-542fa.firebaseio.com",
+    "project_id": "baby-names-app-db-542fa",
+    "storage_bucket": "baby-names-app-db-542fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671247499593:android:0190a7c8941ec8125e1a98",
+        "android_client_info": {
+          "package_name": "com.example.flutter_baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671247499593-r9bq84n7e71kcn45mg7ik7lpncei2k3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI57N9J95A4m_Aqvl_asDMfu7xm3vrTL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671247499593-r9bq84n7e71kcn45mg7ik7lpncei2k3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671247499593-rd073uq74vviqc7odvu5fs13ue0r7ncl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBabyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
